@@ -33,6 +33,7 @@
   background-image: url(images/cocktail.gif);
   background-repeat: repeat-x;
   line-height:  1;
+  float:right;
 }
 div h2{
   color: black;
@@ -48,4 +49,8 @@ div h2{
 }
 .artist{
   font-weight: bold;
+}
+#amazing{
+  width:200px;
+  float: right;
 }
